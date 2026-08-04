@@ -1,35 +1,19 @@
-- taxonomy: 888牛人核心推荐
-  icon: fas fa-fire
+- item: 首页
+  icon: fa fa-home
+  link: "./"
+
+- item: AI效率黑科技
+  icon: fa fa-robot
+  link: "#AI效率黑科技"
+
+- item: 副业搞钱
+  icon: fa fa-coins
+  link: "#副业与搞钱干货"
+
+- item: 关于
+  icon: fa fa-cog
+  link: ""
   list:
-    - term: ChatGPT
-      url: https://chat.openai.com
-      logo: https://ico.xjh.me/chatgpt.com.png
-      description: 全球最强AI大模型，写作、编程、办公效率翻倍神器。
-
-    - term: DeepSeek
-      url: https://www.deepseek.com
-      logo: https://ico.xjh.me/www.deepseek.com.png
-      description: 免费高性能国产AI，深度推理与代码能力极强。
-
-    - term: Claude 3.5
-      url: https://claude.ai
-      logo: https://ico.xjh.me/claude.ai.png
-      description: Anthropic出品，自然语言逻辑与长文撰写Ceiling。
-
-    - term: Midjourney
-      url: https://www.midjourney.com
-      logo: https://ico.xjh.me/www.midjourney.com.png
-      description: 顶尖AI绘画与艺术生成工具，商业设计必备。
-
-- taxonomy: 搞钱与副业干货
-  icon: fas fa-coins
-  list:
-    - term: 888牛人社群
-      url: https://888niub.com
-      logo: https://ico.xjh.me/888niub.com.png
-      description: 加入VIP社群，免费获取2026最新实操搞钱项目与黑科技脚本。
-
-    - term: 小红书爆款打造
-      url: https://888niub.com
-      logo: https://ico.xjh.me/xiaohongshu.com.png
-      description: 专为自媒体创作者准备的文案与选题自动化工具库。
+    - name: 888牛人社群
+      icon: fab fa-weixin
+      link: "https://888niub.com"
