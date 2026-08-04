@@ -128,11 +128,16 @@
 - taxonomy: 学习与资源搜寻
   icon: fas fa-book
   links:
-    - title: 鸠摩搜书
-      logo: https://ico.xjh.me/jiumodiary.com.png
-      url: https://www.jiumodiary.com
-      description: 极简干净的电子书与文档搜索引擎
+    - title: 熊猫搜书
+      logo: https://ico.xjh.me/xmsoushu.com.png
+      url: https://xmsoushu.com
+      description: 聚合全网高分电子书与文档资源导航
 
+    - title: 淘链客 - 网盘搜索
+      logo: https://ico.xjh.me/www.toplinks.cc.png
+      url: https://www.toplinks.cc
+      description: 强大的百度网盘与阿里网盘电子书搜索神器
+      
     - title: 书格数字图书馆
       logo: https://ico.xjh.me/shuge.org.png
       url: https://www.shuge.org
