@@ -39,30 +39,30 @@
       url: https://888niub.com
       description: 加入VIP社群，免费获取2026最新实操搞钱项目与黑科技脚本
 
-    - title: 小红书爆款文案库
-      logo: https://ico.xjh.me/xiaohongshu.com.png
-      url: https://888niub.com
-      description: 专为自媒体创作者准备的文案与选题自动化工具库
-
-    - title: 咸鱼无货源搬砖
-      logo: https://ico.xjh.me/xianyu.com.png
-      url: https://888niub.com
-      description: 数字无货源搬砖自动化闭环实操教程
-
     - title: 新榜 - 自媒体数据
       logo: https://ico.xjh.me/newrank.cn.png
       url: https://www.newrank.cn
       description: 全平台自媒体数据榜单与爆款内容趋势分析
 
-    - title: 蝉妈妈 - 抖快数据
+    - title: 蝉妈妈 - 抖音数据
       logo: https://ico.xjh.me/chanmama.com.png
       url: https://www.chanmama.com
       description: 抖音与短视频电商爆款带货数据分析平台
 
-    - title: 千瓜数据
+    - title: 千瓜数据 - 小红书
       logo: https://ico.xjh.me/qianling.cn.png
       url: https://www.qianling.cn
       description: 专业的小红书数据分析平台，爆款笔记实时监控
+
+    - title: 易撰 - 爆款文案库
+      logo: https://ico.xjh.me/yizhuancom.com.png
+      url: https://www.yizhuancom.com
+      description: 汇集全网自媒体爆款文案、选题库与标题生成器
+
+    - title: 笨笨鹰 - 闲鱼大爆款
+      logo: https://ico.xjh.me/benbenying.com.png
+      url: https://www.benbenying.com
+      description: 闲鱼无货源与电商大爆款选品与数据分析工具
 
 - taxonomy: 站长与国内云服务
   icon: fas fa-laptop-code
