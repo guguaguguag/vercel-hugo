@@ -26,6 +26,7 @@ disableLazyLoading = false
     defaultLogo   = "assets/images/logos/default.webp"
     nightMode     = false
     yiyan         = false
+    ad = false
 
 [params.images]
     favicon           = "assets/images/favicon.png"
