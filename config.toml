@@ -31,8 +31,8 @@ disableLazyLoading = false
     favicon           = "assets/images/favicon.png"
     searchImageL      = "https://s3.aiedu.qzz.io/website/bg-dna.jpg"
     searchImageD      = "https://s3.aiedu.qzz.io/website/bg-dna-d.jpg"
-    logoExpandLight   = ""
-    logoExpandDark    = ""
+    logoExpandLight   = "assets/images/favicon.png"
+    logoExpandDark    = "assets/images/favicon.png"
     logoCollapseLight = "assets/images/favicon.png"
     logoCollapseDark  = "assets/images/favicon.png"
 
