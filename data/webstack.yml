@@ -1,7 +1,3 @@
-# ==========================================
-# 888牛人导航 (888niub.com) 核心数据配置文件
-# ==========================================
-
 # 1. AI效率黑科技
 - taxonomy: AI效率黑科技
   icon: fas fa-robot
@@ -19,7 +15,7 @@
     - term: Claude 3.5
       url: https://claude.ai
       logo: https://ico.xjh.me/claude.ai.png
-      description: Anthropic出品，自然语言逻辑与长文撰写ceiling。
+      description: Anthropic出品，自然语言逻辑与长文撰写Ceiling。
 
     - term: Midjourney
       url: https://www.midjourney.com
@@ -50,7 +46,7 @@
       logo: https://ico.xjh.me/xianyu.com.png
       description: 数字无货源搬砖自动化闭环实操教程。
 
-# 3. 站长推荐黑科技
+# 3. 站长黑科技
 - taxonomy: 站长黑科技
   icon: fas fa-laptop-code
   list:
