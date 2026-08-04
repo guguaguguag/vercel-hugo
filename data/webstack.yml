@@ -1,33 +1,38 @@
-- taxonomy: 888牛人精选 (国内直连)
+- taxonomy: 888牛人精选
   icon: far fa-star
   links:
+    - title: Prompts.chat (AI提示词宝库)
+      logo: https://api.iowen.cn/favicon/prompts.chat.png
+      url: https://prompts.chat
+      description: 全网16万Star顶流开源项目，海量ChatGPT与AI角色提示词库
+
     - title: DeepSeek 深度求索
-      logo: https://ico.xjh.me/www.deepseek.com.png
+      logo: https://api.iowen.cn/favicon/www.deepseek.com.png
       url: https://www.deepseek.com
       description: 免费高性能国产AI，深度推理与代码能力极强
 
     - title: Kimi 智能助手
-      logo: https://ico.xjh.me/kimi.moonshot.cn.png
+      logo: https://api.iowen.cn/favicon/kimi.moonshot.cn.png
       url: https://kimi.moonshot.cn
       description: 支持超长文本处理，解析长文档与论文提炼神器
 
     - title: 豆包 AI
-      logo: https://ico.xjh.me/www.doubao.com.png
+      logo: https://api.iowen.cn/favicon/www.doubao.com.png
       url: https://www.doubao.com
       description: 字节跳动出品免费AI助手，日常办公首选
 
     - title: 智谱清言 AI
-      logo: https://ico.xjh.me/chatglm.cn.png
+      logo: https://api.iowen.cn/favicon/chatglm.cn.png
       url: https://chatglm.cn
       description: 清华技术背景，写作、画图与办公自动化神器
 
     - title: 秘塔 AI 搜索
-      logo: https://ico.xjh.me/metaso.cn.png
+      logo: https://api.iowen.cn/favicon/metaso.cn.png
       url: https://metaso.cn
       description: 无广告直达答案的AI搜索引擎，学术与干货首选
 
     - title: 讯飞星火大模型
-      logo: https://ico.xjh.me/spark.xfyun.cn.png
+      logo: https://api.iowen.cn/favicon/spark.xfyun.cn.png
       url: https://spark.xfyun.cn
       description: 科大讯飞出品，PPT生成与公文写作极强
 
@@ -35,32 +40,32 @@
   icon: fas fa-coins
   links:
     - title: 888牛人VIP社群
-      logo: https://ico.xjh.me/888niub.com.png
+      logo: https://api.iowen.cn/favicon/888niub.com.png
       url: https://888niub.com
       description: 加入VIP社群，免费获取2026最新实操搞钱项目与黑科技脚本
 
     - title: 新榜 - 自媒体数据
-      logo: https://ico.xjh.me/newrank.cn.png
+      logo: https://api.iowen.cn/favicon/www.newrank.cn.png
       url: https://www.newrank.cn
       description: 全平台自媒体数据榜单与爆款内容趋势分析
 
     - title: 蝉妈妈 - 抖音数据
-      logo: https://ico.xjh.me/chanmama.com.png
+      logo: https://api.iowen.cn/favicon/www.chanmama.com.png
       url: https://www.chanmama.com
       description: 抖音与短视频电商爆款带货数据分析平台
 
     - title: 千瓜数据 - 小红书
-      logo: https://ico.xjh.me/qianling.cn.png
+      logo: https://api.iowen.cn/favicon/www.qianling.cn.png
       url: https://www.qianling.cn
       description: 专业的小红书数据分析平台，爆款笔记实时监控
 
     - title: 易撰 - 爆款文案库
-      logo: https://ico.xjh.me/yizhuancom.com.png
+      logo: https://api.iowen.cn/favicon/www.yizhuancom.com.png
       url: https://www.yizhuancom.com
       description: 汇集全网自媒体爆款文案、选题库与标题生成器
 
     - title: 笨笨鹰 - 闲鱼大爆款
-      logo: https://ico.xjh.me/benbenying.com.png
+      logo: https://api.iowen.cn/favicon/www.benbenying.com.png
       url: https://www.benbenying.com
       description: 闲鱼无货源与电商大爆款选品与数据分析工具
 
@@ -68,32 +73,32 @@
   icon: fas fa-laptop-code
   links:
     - title: Linux.do 论坛
-      logo: https://ico.xjh.me/linux.do.png
+      logo: https://api.iowen.cn/favicon/linux.do.png
       url: https://linux.do
       description: 国内前沿技术交流、极客与MJJ大佬聚集地
 
     - title: Gitee 码云
-      logo: https://ico.xjh.me/gitee.com.png
+      logo: https://api.iowen.cn/favicon/gitee.com.png
       url: https://gitee.com
       description: 国内极速开源代码托管平台，GitHub国内最佳替代
 
     - title: 阿里云控制台
-      logo: https://ico.xjh.me/aliyun.com.png
+      logo: https://api.iowen.cn/favicon/www.aliyun.com.png
       url: https://www.aliyun.com
       description: 国内领先的云服务器与域名服务提供商
 
     - title: 腾讯云控制台
-      logo: https://ico.xjh.me/cloud.tencent.com.png
+      logo: https://api.iowen.cn/favicon/cloud.tencent.com.png
       url: https://cloud.tencent.com
       description: 稳定高效的云服务器与微服务架构托管
 
     - title: ITdog 站长检测
-      logo: https://ico.xjh.me/www.itdog.cn.png
+      logo: https://api.iowen.cn/favicon/www.itdog.cn.png
       url: https://www.itdog.cn
       description: 免费在线Ping、测速、路由追踪等站长测试工具
 
     - title: 站长工具 - Chinaz
-      logo: https://ico.xjh.me/tool.chinaz.com.png
+      logo: https://api.iowen.cn/favicon/tool.chinaz.com.png
       url: https://tool.chinaz.com
       description: SEO综合查询、权重检测与域名信息查询
 
@@ -101,27 +106,27 @@
   icon: fas fa-photo-video
   links:
     - title: SnapAny 万能下载
-      logo: https://ico.xjh.me/snapany.com.png
+      logo: https://api.iowen.cn/favicon/snapany.com.png
       url: https://snapany.com/zh
       description: 免费提取抖音/小红书无水印视频与高清图片
 
     - title: Remove.bg 自动抠图
-      logo: https://ico.xjh.me/www.remove.bg.png
+      logo: https://api.iowen.cn/favicon/www.remove.bg.png
       url: https://www.remove.bg/zh
       description: 5秒自动消除图片背景，发丝级抠图神器
 
     - title: BigJPG AI图片放大
-      logo: https://ico.xjh.me/bigjpg.com.png
+      logo: https://api.iowen.cn/favicon/bigjpg.com.png
       url: https://bigjpg.com
       description: 使用深度卷积神经网络无损放大动漫与人像照片
 
     - title: ProcessOn 在线作图
-      logo: https://ico.xjh.me/www.processon.com.png
+      logo: https://api.iowen.cn/favicon/www.processon.com.png
       url: https://www.processon.com
-      description: 专业强大的在线流程图、思维导图与原型图绘制
+      description: 专业的在线流程图、思维导图与原型图绘制
 
     - title: 草料二维码
-      logo: https://ico.xjh.me/cli.im.png
+      logo: https://api.iowen.cn/favicon/cli.im.png
       url: https://cli.im
       description: 在线二维码生成与解码，自媒体排版必备
 
@@ -129,21 +134,21 @@
   icon: fas fa-book
   links:
     - title: 熊猫搜书
-      logo: https://ico.xjh.me/xmsoushu.com.png
+      logo: https://api.iowen.cn/favicon/xmsoushu.com.png
       url: https://xmsoushu.com
       description: 聚合全网高分电子书与文档资源导航
 
     - title: 书格数字图书馆
-      logo: https://ico.xjh.me/shuge.org.png
+      logo: https://api.iowen.cn/favicon/www.shuge.org.png
       url: https://www.shuge.org
       description: 自由开放的古籍数字图书馆，提供高清古籍珍本下载
 
     - title: 站酷 ZCOOL
-      logo: https://ico.xjh.me/zcool.com.cn.png
+      logo: https://api.iowen.cn/favicon/www.zcool.com.cn.png
       url: https://www.zcool.com.cn
       description: 设计师互动社区，海量灵感与视觉设计素材
 
     - title: Iconfont 矢量图标
-      logo: https://ico.xjh.me/iconfont.cn.png
+      logo: https://api.iowen.cn/favicon/www.iconfont.cn.png
       url: https://www.iconfont.cn
       description: 阿里巴巴出品的矢量图标库，UI设计必备
