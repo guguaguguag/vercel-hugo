@@ -1,18 +1,58 @@
-baseURL = 'https://888niub.com/'
-languageCode = 'zh-CN'
-title = '888牛人导航 - 效率黑科技与AI工具精选'
-theme = 'WebStack-Hugo'
+baseURL               = "https://518855.xyz/"
+languageCode          = "zh-CN"
+title                 = "Mjj的导航站 | 免费服务器| 免费资源 | 必备工具 | 导航"
+description           = "免费服务器 免费资源 Mjj的导航站 必备工具 导航"
+theme                 = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower    = true
+hasCJKLanguage        = true
+publishDir            = "docs"					# 站点静态文件保存目录
+
+
+# Robots.txt
+enableRobotsTXT = true
+
+[images]
+disableLazyLoading = false
 
 [params]
-  Title = "888牛人导航"
-  Subtitle = "888niub.com"
-  description = "汇集全球精选AI工具、效率黑科技、副业搞钱干货"
+    author        = "AiEDU"
+    description   = "免费服务器 免费资源 Mjj的导航站 必备工具 导航"
+    upload        = "https://518855.xyz/"  # 左侧导航栏的"网站提交"
+    about         = "https://www.aiedu.pp.ua"	# 左侧导航栏的"关于导航"页面(./about)
+    repository    = "https://github.com/88899"
+    enablePreLoad = false					# 网站完全打开前预加载动画
+    textPreLoad   = "AiEDU"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
+    expandSidebar = true					# 默认展开左侧边导航栏
+    logosPath     = "assets/images/logos"			# 网站每个导航地址logo存放地址
+    defaultLogo   = "assets/images/logos/default.webp"		# logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
+    nightMode     = false					# 默认站点为深色(夜间)模式
+    yiyan         = false                         		# 默认启用一言服务
 
-  # 数据文件绑定（关键！必须指明读取 data 文件夹下的配置）
-  data = "webstack"
-  headers = "headers"
-  friendlinks = "friendlinks"
+[params.seo]
+    # baiduhmid     = '252f9700e4c1ad32c2647eb839ef71e6'		# 百度统计 hm.src 的 ID
+    # baiduSiteVer  = 'codeva-cCAOSG8MBO'				# 百度HTML标签验证(baidu-site-verification)
+    # tj51laid        = ''                        		# 51.LA 网站统计
+    # tj51lack        = ''
+    GoogleAdsClient = 'G-TZZ8ZZD3FR'
 
-  # 基础样式与功能开关
-  upload = false
-  expand = true
+[params.qweather]
+    key = ""
+
+[params.images]
+    favicon           = "assets/images/favicon.png"           # 网站图标
+    searchImageL      = "https://s3.aiedu.qzz.io/website/bg-dna.jpg"             # 搜索部分浅色背景图
+    searchImageD      = "https://s3.aiedu.qzz.io/website/bg-dna-d.jpg"             # 搜索部分深色背景图
+    logoExpandLight   = "assets/images/wuzi.png"               # 扩展状态下的浅色 logo
+    logoExpandDark    = "assets/images/wuzi-b.png"               # 扩展状态下的深色 logo
+    logoCollapseLight = "assets/images/favicon.png"           # 收起状态下的浅色 logo
+    logoCollapseDark  = "assets/images/favicon.png"           # 收起状态下的深色 logo
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+[markup.imageRender]
+loading = "lazy"
+
+[params.footer]
+    copyright = '2025 - {year} By [AiEDU](https://github.com/88899) | [vercel-hugo](https://github.com/88899/vercel-hugo) <br/>'
